@@ -1,0 +1,13 @@
+# Local tool and editor files
+.claude/
+CLAUDE.md
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.env
+# Study data never belongs here
+*.edf
+*.mp4
+*.avi
+/data/
